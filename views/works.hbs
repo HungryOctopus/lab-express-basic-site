@@ -1,0 +1,11 @@
+<h1>{{name}}</h1>
+<h4>CDs available: </h4>
+
+{{#each albums}}
+  <h4>{{title}}</h4>
+  <ul>
+    <li>Style: {{musicStyle}}</li>
+    <li>Number of tracks: {{tracks}}</li>
+    <li>Description: {{albumDescription}}</li>
+  </ul>
+{{/each}}

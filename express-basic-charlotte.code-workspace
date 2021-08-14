@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "node_modules"
+    },
+    {
+      "path": "public"
+    },
+    {
+      "path": "views"
+    },
+    {
+      "path": "../../codealongs/node-examples/node-express-templating"
+    },
+    {
+      "path": "."
+    }
+  ]
+}
